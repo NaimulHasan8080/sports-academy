@@ -1,0 +1,74 @@
+[
+    {
+        "title": "cricket",
+        "coach": "Salauddin",
+        "img": "https://i.ibb.co/n0zMJ1c/89610725-2896992870336871-5690445206042705920-n.jpg",
+        "instruction": "If you love cricket and want to carrer by it please admit our academy .",
+        "camp": "2 years",
+        "admit-time": "January",
+        "total": "40"
+    },
+    {
+        "title": "Football",
+        "coach": "Oscar Bruzon",
+        "img": "https://i.ibb.co/V2CxWKh/0-Getty-Images-1210995196.jpg",
+        "instruction": "If you love Football and want to carrer by it please admit our academy .",
+        "camp": "2 years",
+        "admit-time": "January",
+        "total": "40"
+    },
+    {
+        "title": "Badminton",
+        "coach": "Raju",
+        "img": "https://i.ibb.co/3TC9pQJ/l21720210730194535.webp",
+        "instruction": "If you love cricket and want to carrer by it please admit our academy .",
+        "camp": "2 years",
+        "admit-time": "January",
+        "total": "40"
+    },
+    {
+        "title": "Hockey",
+        "coach": "Kuddos",
+        "img": "https://i.ibb.co/T0GpPbb/rsz-70245432-2491516827553769-4261540815370715136-o-1568127899985.jpg",
+        "instruction": "If you love cricket and want to carrer by it please admit our academy .",
+        "camp": "2 years",
+        "admit-time": "January",
+        "total": "50"
+    },
+    {
+        "title": "Archer",
+        "coach": "Martin Frederick",
+        "img": "https://i.ibb.co/3S3fBtG/9v-Djtqe-SA83-JVuig-Q1z-MIbu-STk-E8-Ll4-XHt-EPne-XF.jpg",
+        "instruction": "If you love cricket and want to carrer by it please admit our academy .",
+        "camp": "2 years",
+        "admit-time": "January",
+        "total": "120"
+    },
+    {
+        "title": "Kabadi",
+        "coach": "Abdul Jalil",
+        "img": "https://i.ibb.co/NtJf7xd/3-34.jpg",
+        "instruction": "If you love cricket and want to carrer by it please admit our academy .",
+        "camp": "2 years",
+        "admit-time": "January",
+        "total": "70"
+    },
+    {
+        "title": "Swimming",
+        "coach": "Syed Nazrul Islam",
+        "img": "https://i.ibb.co/ZW0hgqt/prothomalo-english-import-media-2018-01-14-b4cad039c90b6039672093eb1d1aeca1-Sabura-1.jpg",
+        "instruction": "If you love cricket and want to carrer by it please admit our academy .",
+        "camp": "2 years",
+        "admit-time": "January",
+        "total": "20"
+    },
+    {
+        "title": "Chess",
+        "coach": "Abdul Latif",
+        "img": "https://i.ibb.co/cLgsZPx/4-18.jpg",
+        "instruction": "If you love cricket and want to carrer by it please admit our academy .",
+        "camp": "2 years",
+        "admit-time": "January",
+        "total": "40"
+    }
+]

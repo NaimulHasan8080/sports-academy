@@ -1,0 +1,29 @@
+[
+    {
+        "title": "cricket",
+        "coach": "Salauddin",
+        "img": "https://i.ibb.co/n0zMJ1c/89610725-2896992870336871-5690445206042705920-n.jpg",
+        "instruction": "If you love cricket and want to carrer by it please admit our academy .",
+        "camp": "2 years",
+        "admit-time": "January",
+        "total": "40"
+    },
+    {
+        "title": "Football",
+        "coach": "Oscar Bruzon",
+        "img": "https://i.ibb.co/V2CxWKh/0-Getty-Images-1210995196.jpg",
+        "instruction": "If you love Football and want to carrer by it please admit our academy .",
+        "camp": "2 years",
+        "admit-time": "January",
+        "total": "40"
+    },
+    {
+        "title": "Badminton",
+        "coach": "Raju",
+        "img": "https://i.ibb.co/3TC9pQJ/l21720210730194535.webp",
+        "instruction": "If you love cricket and want to carrer by it please admit our academy .",
+        "camp": "2 years",
+        "admit-time": "January",
+        "total": "40"
+    }
+]
