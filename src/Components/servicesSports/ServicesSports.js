@@ -1,16 +1,19 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
+import './ServicesSports.css'
 
 const ServicesSports = (props) => {
-    const { title, img } = props.service;
+    console.log(props.service);
+    const { title, img, coach, camp, instruction, total } = props.service;
     return (
-        <div class="col-md-4">
-            <div class="card">
-                <img src={img} />
-                <div class="card-body">
-                    <h5 class="card-title">{title}</h5>
-                    <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content.This content is a little bit longer.</p>
-                </div>
-            </div>
+        <div className="service-container text-center my-5">
+            <img className="service-img m-4 mx-auto" src={img} />
+            <h4>{title}</h4>
+            <h4>coach: {coach}</h4>
+            <h4>camp : {camp}</h4>
+            <h4>{instruction}</h4>
+            <h4>Total-admit : {total}</h4>
+            <Link to={`/detail/${title}`}><button className="btn-regular mx-auto m-2">Details</button></Link>
         </div>
     );
 };

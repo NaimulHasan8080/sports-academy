@@ -9,12 +9,15 @@ const Services = () => {
             .then(res => res.json())
             .then(data => setServices(data))
     }, []);
-    console.log(services)
     return (
-        <div class="row row-cols-1 row-cols-md-3 g-4">
-            {
-                services.map(service => <ServicesSports service={service}></ServicesSports>)
-            }
+        <div>
+            <div className="service">
+                {
+                    services.map(service => <ServicesSports
+                        key={service.title}
+                        service={service}></ServicesSports>)
+                }
+            </div>
         </div>
     );
 };

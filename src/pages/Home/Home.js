@@ -5,15 +5,16 @@ import './Home.css'
 const Home = () => {
     const [sports, setSports] = useState([]);
     useEffect(() => {
-        fetch('./home.json')
+        fetch(`./home.json`)
             .then(res => res.json())
             .then(data => setSports(data))
-    }, [])
-    console.log(sports);
+    }, []);
     return (
         <div class="row row-cols-1 row-cols-md-3 g-4">
             {
-                sports.map(sport => <Sport sport={sport}></Sport>)
+                sports.map(sport => <Sport
+                    key={sport.title}
+                    sport={sport}></Sport>)
             }
         </div>
     );

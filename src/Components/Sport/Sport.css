@@ -4,6 +4,8 @@
     border-radius: 10px;
 }
 .card{
-    background-color: tomato;
-    /* margin-left: 10px; */
+   background-image: linear-gradient(#cc6699 ,#ff99cc);
+}
+.sports-container{
+    color: white;
 }
