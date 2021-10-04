@@ -5,6 +5,7 @@ const Services = () => {
     const [services, setServices] = useState([]);
 
     useEffect(() => {
+        // call api
         fetch(`./sports.json`)
             .then(res => res.json())
             .then(data => setServices(data))

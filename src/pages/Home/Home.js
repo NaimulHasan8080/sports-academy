@@ -5,6 +5,7 @@ import './Home.css'
 const Home = () => {
     const [sports, setSports] = useState([]);
     useEffect(() => {
+        //call api
         fetch(`./home.json`)
             .then(res => res.json())
             .then(data => setSports(data))

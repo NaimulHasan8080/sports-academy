@@ -3,7 +3,6 @@ import { Link } from 'react-router-dom';
 import './ServicesSports.css'
 
 const ServicesSports = (props) => {
-    console.log(props.service);
     const { title, img, coach, camp, instruction, total } = props.service;
     return (
         <div className="service-container text-center my-5">

@@ -3,7 +3,6 @@ import { Link } from 'react-router-dom';
 import './Sport.css'
 
 const Sport = (props) => {
-    console.log(props.sport)
     const { img, title, coach, instruction } = props.sport
     return (
         <div class="col my-5 sports-container">

@@ -1,5 +1,5 @@
 import React from 'react';
-
+//footer for all pages
 const Footer = () => {
     return (
         <footer className="bg-dark p-4 my-4">
@@ -9,7 +9,7 @@ const Footer = () => {
                 <button class="btn btn-outline-secondary" type="button" id="button-addon2">Submit</button>
             </div>
             <div>
-                <p className="text-white">TermsFeed © 2012 - 2021</p>
+                <p className="text-white">TermsFeed and copy right law © 2012 - 2021</p>
             </div>
         </footer>
     );
